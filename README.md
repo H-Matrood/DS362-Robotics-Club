@@ -8,7 +8,11 @@ This project is a web-based Campus Events Hub developed for a fictional Robotics
 
 ## Team Members
 - Hassan Almatrood
-- To be updated
+- Essa AL Labbad
+- Mazen Alharbi
+
+## Coordinator
+- Hassan Al-Matrood
 
 ## Phase 1 Progress
 - Project topic selected
