@@ -1,0 +1,14 @@
+/* Phase 2 stylesheet */
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f5f5f5;
+}
+
+h1 {
+    color: #0066cc;
+    text-align: center;
+    margin-top: 40px;
+}
