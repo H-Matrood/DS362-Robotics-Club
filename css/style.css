@@ -74,3 +74,21 @@ footer {
     transform: translateY(-6px);
     box-shadow: 0 6px 15px rgba(0, 0, 0, 0.15);
 }
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+}
+
+table th,
+table td {
+    border: 1px solid #ccc;
+    padding: 12px;
+}
+
+table th {
+    background-color: #0d47a1;
+    color: white;
+    text-align: center;
+}
