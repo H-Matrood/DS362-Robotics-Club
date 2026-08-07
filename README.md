@@ -15,9 +15,12 @@ This project is a web-based Campus Events Hub developed for a fictional Robotics
 - Hassan Al-Matrood
 
 ## Phase 1 Progress
-- Project topic selected
-- GitHub repository created
-- Sitemap designed
+- Selected the project topic.
+- Defined the project requirements.
+- Created the GitHub repository.
+- Designed the website sitemap.
+- Prepared the website wireframes.
+- Planned the website structure and navigation.
 
 ## Phase 2 Progress
 - Developed the website using HTML, CSS, and PHP.
