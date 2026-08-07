@@ -19,7 +19,7 @@ This project is a web-based Campus Events Hub developed for a fictional Robotics
 - GitHub repository created
 - Sitemap designed
 
-## Phase 1 Progress
+## Phase 2 Progress
 - Developed the website using HTML, CSS, and PHP.
 - Converted the project from static HTML to a dynamic PHP application.
 - Implemented reusable PHP includes (Header & Footer).
